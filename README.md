@@ -23,9 +23,17 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing st
 ![Screenshot (120)](https://github.com/dharshu2323/SpringBoot-StudentCRUD/assets/104815447/089a4502-529c-482f-a6d1-d8afacf729e2)
 
 The dependencies generated in this project are:
+
+
 1.JPA Repository:Java Persistence API (JPA) is a specification for managing relational data in Java applications.It provides CRUD operations and query methods for interacting with a database.
+
+
 2.H2 Database:In your Spring Boot application, you can configure H2 as a dependency and use it for storing and retrieving data.It is a online database.
+
+
 3.Lombok:Lombok provides annotations like @Getter, @Setter, @NoArgsConstructor, @AllArgsConstructor, @EqualsAndHashCode, and others.
+
+
 4.Spring Web:Spring Web is a part of the larger Spring Framework, providing features for building web applications and RESTful web services.
 
 👉H2 DataBase:
