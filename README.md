@@ -52,10 +52,20 @@ spring.h2.console.enabled=true
 👉Postman:
 
 1.Open Postman and create a new request.
+
+
 2.Enter the URL of your API endpoint (e.g., http://localhost:8080/api/students).
+
+
 3.Choose the HTTP method (GET, POST, etc.).
+
+
 4.Add request parameters or a request body if required.
+
+
 5.Click "Send" to execute the request.
+
+
 6.View the response.
 
 ![Screenshot (116)](https://github.com/dharshu2323/SpringBoot-StudentCRUD/assets/104815447/4835e8b2-8103-4964-81b9-2d074b551404)
@@ -63,9 +73,17 @@ spring.h2.console.enabled=true
 👉API Endpoints
 
 GET /api/user: Get a list of all students.
+
+
 GET /api/users/{id}: Get details of a specific student.
+
+
 POST /api/user: Add a new student.
+
+
 PUT /api/userUpdate/{id}: Update an existing student.
+
+
 DELETE /api/userDelete/{id}: Delete a student.
 
 ![Screenshot (121)](https://github.com/dharshu2323/SpringBoot-StudentCRUD/assets/104815447/3d363e9e-a2dc-4406-95b6-5bd9caef9aaa)
